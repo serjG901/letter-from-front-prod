@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/letter-from-front/static/css/main.1c163252.css",
-    "main.js": "/letter-from-front/static/js/main.8df6633c.js",
-    "index.html": "/letter-from-front/index.html",
-    "main.1c163252.css.map": "/letter-from-front/static/css/main.1c163252.css.map",
-    "main.8df6633c.js.map": "/letter-from-front/static/js/main.8df6633c.js.map"
+    "main.css": "/letter-from-front-prod/static/css/main.1c163252.css",
+    "main.js": "/letter-from-front-prod/static/js/main.8df6633c.js",
+    "index.html": "/letter-from-front-prod/index.html",
+    "main.1c163252.css.map": "/letter-from-front-prod/static/css/main.1c163252.css.map",
+    "main.8df6633c.js.map": "/letter-from-front-prod/static/js/main.8df6633c.js.map"
   },
   "entrypoints": [
     "static/css/main.1c163252.css",
