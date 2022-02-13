@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/letter-from-front-prod/static/css/main.1c163252.css",
-    "main.js": "/letter-from-front-prod/static/js/main.8df6633c.js",
+    "main.js": "/letter-from-front-prod/static/js/main.3f22da39.js",
     "index.html": "/letter-from-front-prod/index.html",
     "main.1c163252.css.map": "/letter-from-front-prod/static/css/main.1c163252.css.map",
-    "main.8df6633c.js.map": "/letter-from-front-prod/static/js/main.8df6633c.js.map"
+    "main.3f22da39.js.map": "/letter-from-front-prod/static/js/main.3f22da39.js.map"
   },
   "entrypoints": [
     "static/css/main.1c163252.css",
-    "static/js/main.8df6633c.js"
+    "static/js/main.3f22da39.js"
   ]
 }
